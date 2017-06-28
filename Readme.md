@@ -1,0 +1,1 @@
+examplo de fila RabbitMQ
